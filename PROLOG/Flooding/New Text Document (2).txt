@@ -1,0 +1,1 @@
+:-dynamic mobileagent/3. mobileagent(guid,(IP,Port),main):-    writeln(‘Agent has reached!’).
